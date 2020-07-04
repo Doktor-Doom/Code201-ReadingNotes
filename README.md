@@ -4,7 +4,9 @@
 
 ## July
 
-* [Wk 1 (6-10)](wk1.md)
-* [Wk 2 (13-17)](wk2.md)
-* [Wk 3 (20-24)](wk3.md)
-* [Wk 4 (27-31)](wk4.md)
+* [Wk 1 (6-10)](Wk1.md)
+* Week1 [link](Wk1.md)
+* [Wk 2 (13-17)](Wk2.md)
+* [Wk 3 (20-24)](Wk3.md)
+* [Wk 4 (27-31)](Wk4.md)
+* Day Three [link](day-three.md)
