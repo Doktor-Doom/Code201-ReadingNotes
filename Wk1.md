@@ -26,6 +26,12 @@ expressions: either assign a value to a variable or use 2 values to return singl
 
 operators: arithmatic, string,
 
+Basics of text on webpages i.e. structural and semantic markup <'h1-h6'> <'p'>
+<'b> bold
+<'i> italic
+<'sup> superscript
+<'sub> subscript
+
 
 
 
